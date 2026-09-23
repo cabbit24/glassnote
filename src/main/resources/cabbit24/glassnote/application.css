@@ -1,0 +1,8 @@
+.color-palette .hyperlink, .color-palette .separator 
+{
+    visibility: hidden;
+}
+.color-palette 
+{
+    -fx-padding: 15 15 -30 15;
+}

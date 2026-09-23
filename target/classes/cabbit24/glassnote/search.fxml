@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<Pane fx:id="searchPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="124.0" prefWidth="411.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cabbit24.glassnote.SearchController">
+   <children>
+      <VBox prefWidth="450.0">
+         <children>
+            <HBox layoutX="10.0" layoutY="10.0" prefWidth="200.0" spacing="5.0">
+               <children>
+                  <Label text="Find:" />
+                  <TextField fx:id="findField" prefHeight="25.0" prefWidth="168.0" translateX="45.0" />
+                  <Button mnemonicParsing="false" onAction="#findNext" text="Find Next" translateX="45.0" />
+               </children>
+               <padding>
+                  <Insets left="5.0" top="10.0" />
+               </padding>
+            </HBox>
+            <HBox prefWidth="200.0" spacing="5.0">
+               <children>
+                  <Label text="Replace with:" />
+                  <TextField fx:id="replaceField" prefHeight="25.0" prefWidth="168.0" />
+                  <Button mnemonicParsing="false" onAction="#replaceNext" prefHeight="25.0" prefWidth="66.0" text="Replace" />
+                  <Button layoutX="245.0" layoutY="20.0" mnemonicParsing="false" onAction="#replaceAll" text="Replace All" />
+               </children>
+               <padding>
+                  <Insets left="5.0" top="10.0" />
+               </padding>
+            </HBox>
+            <VBox prefHeight="8.0" prefWidth="384.0" spacing="5.0">
+               <children>
+                  <CheckBox fx:id="matchCase" mnemonicParsing="false" selected="true" text="Match case" />
+                  <Button mnemonicParsing="false" onAction="#closeWindow" text="Exit" />
+               </children>
+               <VBox.margin>
+                  <Insets left="5.0" />
+               </VBox.margin>
+            </VBox>
+         </children>
+      </VBox>
+   </children>
+</Pane>
