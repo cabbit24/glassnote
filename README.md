@@ -1,5 +1,6 @@
 # Glassnote: Transparent sticky notes app for Windows 11
 
+### [Download for Windows 11](https://github.com/cabbit24/glassnote/releases/)
 
 <img width="2559" height="1335" alt="Welcome" src="https://github.com/user-attachments/assets/eb7e6fd7-3035-44f4-9d9b-af1470a7a49f" />
 
@@ -20,10 +21,12 @@
 <img width="1861" height="1089" alt="Foss" src="https://github.com/user-attachments/assets/925edd74-0f91-408e-ab6c-9217a9e7e326" />
 
 # Links:
+* [FAQ](https://github.com/cabbit24/glassnote/blob/main/faq.md)
+* [Download for Windows 11](https://github.com/cabbit24/glassnote/releases/)
 
 
 # Credits:
 * RichTextFX 
 * NDS12.ttf font created by Caveras Cliff Modes 
 * Art assets were created in Blender3D
-* **_Zero_** generative AI was used anywhere in the development of Glassnote
+* **_No_** generative AI was used anywhere in the development of Glassnote
