@@ -28,5 +28,5 @@
 # Credits:
 * RichTextFX https://github.com/FXMisc/RichTextFX
 * NDS12.ttf font created by Caveras Cliff Modes 
-* Art assets were created in Blender3D
+* Logo created in Blender3D
 * **_No_** generative AI was used anywhere in the development of Glassnote
