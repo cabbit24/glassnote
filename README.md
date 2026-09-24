@@ -1,6 +1,6 @@
 # Glassnote: Transparent sticky notes app for Windows 11
 
-### [Download for Windows 11](https://github.com/cabbit24/glassnote/releases/download/v1.0/Glassnote_Setup.exe)
+<!--### [Download for Windows 11](https://github.com/cabbit24/glassnote/releases/download/v1.0/Glassnote_Setup.exe)/-->
 
 <img width="2559" height="1335" alt="Welcome" src="https://github.com/user-attachments/assets/eb7e6fd7-3035-44f4-9d9b-af1470a7a49f" />
 
@@ -21,12 +21,12 @@
 <img width="1861" height="1089" alt="Foss" src="https://github.com/user-attachments/assets/925edd74-0f91-408e-ab6c-9217a9e7e326" />
 
 # Links:
-* [Download](https://github.com/cabbit24/glassnote/releases/download/v1.0/Glassnote_Setup.exe)
-* [FAQ](https://github.com/cabbit24/glassnote/blob/main/faq.md)
+<!--* [Download](https://github.com/cabbit24/glassnote/releases/download/v1.0/Glassnote_Setup.exe)-->
+<!--* [FAQ](https://github.com/cabbit24/glassnote/blob/main/faq.md)-->
 
 
 # Credits:
-* RichTextFX https://github.com/FXMisc/RichTextFX
-* NDS12.ttf font created by Caveras Cliff Modes https://caveras.net/
+* RichTextFX <!--https://github.com/FXMisc/RichTextFX-->
+* NDS12.ttf font created by Caveras Cliff Modes <!--https://caveras.net/-->
 * Art assets were created in Blender3D
 * **_Zero_** generative AI was used anywhere in the development of Glassnote
