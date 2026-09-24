@@ -1,7 +1,7 @@
 # FAQ
 
 ### Q: Why can't I save files?
-A: Glassnote was intended to be a private and offline journaling/sticky notes app. Glassnotes are meant to be "fragile" (like glass) and as such there is no save function built into it. If you wish to save the glassnotes you have written on, then you can copy and paste them in an app like
+A: Glassnote was intended to be a private and offline journaling/sticky notes app. Glassnotes are meant to be "fragile" (like glass) and as such there is no save function built into it. If you wish to save the glassnotes you have written on, then you can copy and paste them in an app like Obsidian.
 
 ### Q: Are there any keyboard shortcuts?
 A: Yes
