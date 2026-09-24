@@ -22,7 +22,7 @@
 
 # Links:
 * [Download](https://github.com/cabbit24/glassnote/releases/download/v1.0/Glassnote_Setup.exe)
-* FAQ
+* [FAQ](https://github.com/cabbit24/glassnote/blob/main/faq.md)
 
 
 # Credits:
