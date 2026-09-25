@@ -29,4 +29,4 @@
 * RichTextFX https://github.com/FXMisc/RichTextFX
 * NDS12.ttf font created by Caveras Cliff Modes 
 * Logo created in Blender3D
-* **_No_** generative AI was used anywhere in the development of Glassnote
+* _No generative AI was used anywhere in the development of Glassnote_
