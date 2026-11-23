@@ -20,8 +20,8 @@ A: Yes
 ### Q: How do I change the appearance?
 A: On the top menu click "Settings" then click "Config". If this does not work you can modify the config.properties file in a text editor. (C:\Users\{User}\AppData\Local\Glassnote\config.properties)
 
-### Q: What command is run when "disable wifi on startup" is enabled Why does this exist as an option?
-A: "netsh wlan disconnect" is ran. This may or may not work depending on your specific Wi-Fi configuration. This option exists to prevent remote monitoring when journaling about personal subjects. It's basically like a "diary" mode for extra privacy.
+### Q: What does "disable wifi on startup" do?
+A: This enables "diary mode", it's for journaling about personal subjects. Use this option for extra privacy.
 
 ⚠ This will disconnect you from your Wi-Fi interface when the app starts up. Simply reconnect to your Wi-Fi interface to undo this.
 
